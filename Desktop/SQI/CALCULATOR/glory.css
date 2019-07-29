@@ -1,0 +1,17 @@
+#screen{
+	height: 40px;
+	width: 200px;
+	background-color: grey;
+	color: white;
+	font-size: 20px;
+}
+#container{
+	width: 250px;
+	height: 300px;
+	border: 2px: dashed;
+	background-color: green;
+	margin-top: -200px;
+}
+#form{
+	margin-left: 20px;
+}
